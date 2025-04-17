@@ -1,2 +1,2 @@
 # ShakespeareTypeWriter
-Создание LSTM модели для написания текста в стиле Шекспира с алгоритмом поиска лучшего предсказания Beam Search 
+Creating an LSTM model for Shakespearean-style writing with Beam Search algorithm for best prediction 
